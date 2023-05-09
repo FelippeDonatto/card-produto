@@ -1,7 +1,7 @@
 export function InfoProduto() {
   return (
     <>
-      <div className="w-full">
+      <div className="w-full max-md:text-center">
         <p className="font-mono leading-[100%] font-light text-xs mb-3">
           CÓDIGO: 42404
         </p>
